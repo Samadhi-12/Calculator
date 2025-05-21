@@ -1,3 +1,13 @@
 <resources>
     <string name="app_name">calculator</string>
+    <string name="division">÷</string>
+    <string name="left_bracket">(</string>
+    <string name="right_bracket">)</string>
+    <string name="equal">=</string>
+    <string name="multiply">×</string>
+    <string name="decimal">.</string>
+    <string name="minus">-</string>
+    <string name="arrows">⌫</string>
+    <string name="add">+</string>
+
 </resources>
