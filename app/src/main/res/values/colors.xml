@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Background Colors -->
+    <color name="background">#FFFFFF</color>
+    <color name="display_area">#E5D9F7</color>
+
+    <!-- Button Colors -->
+    <color name="button_bg">#E6D0FA</color>
+    <color name="button_text">#4B4B4B</color>
+
+    <!-- Function Icons/Text -->
+    <color name="text_primary">#4B4B4B</color>
+
+    <!-- Accent Colors -->
+    <color name="accent_lavender">#E6D0FA</color>
+    <color name="accent_violet">#D6B5F4</color>
+</resources>
