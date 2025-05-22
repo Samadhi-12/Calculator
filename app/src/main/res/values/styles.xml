@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <style name="Button_Style" parent="Widget.Material3.Button">
-        <item name="android:layout_margin">5dp</item> <!-- Spacing between buttons -->
+        <item name="android:layout_margin">4dp</item> <!-- Spacing between buttons -->
         <item name="android:background">@drawable/bg_style</item> <!-- Custom drawable -->
         <item name="android:textColor">@color/button_text</item>
-        <item name="android:textSize">30sp</item>
+        <item name="android:textSize">20sp</item>
         <item name="android:padding">12dp</item>
         <item name="android:gravity">center</item>
         <item name="backgroundTint">@color/accent_violet</item>
