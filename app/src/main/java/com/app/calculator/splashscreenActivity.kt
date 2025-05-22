@@ -17,7 +17,7 @@ class splashscreenActivity : AppCompatActivity(){
 
         Handler(Looper.getMainLooper()).postDelayed({
             navigateToMain()
-        }, 6000)
+        }, 4000)
     }
 }
 
